@@ -9,7 +9,7 @@ Given Parameters:
 Assumptions: 
 1. Input csv tickers is not sorted.
 2. There is sufficient memory on the machine for the execution of our script
-
+3. There might be duplicate entries. 
 
 
 
